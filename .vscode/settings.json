@@ -1,0 +1,10 @@
+{
+  "idf.currentSetup": "/Users/joseramonnavarro/.espressif/v5.5.4/esp-idf",
+  "idf.customExtraVars": {},
+  "clangd.path": "/Users/joseramonnavarro/.espressif/tools/esp-clang/esp-19.1.2_20250312/esp-clang/bin/clangd",
+  "clangd.arguments": [
+    "--background-index",
+    "--query-driver=**",
+    "--compile-commands-dir=/Users/joseramonnavarro/Desktop/Equipo_X_DRL/build"
+  ]
+}
